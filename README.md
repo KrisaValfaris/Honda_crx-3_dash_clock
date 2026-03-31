@@ -3,7 +3,9 @@ dashboard clock for honda crx-3 with oled
 
 Used:
 ESP32S3 xiao 
+
 RTC DS1307
+
 CH1115 1.29inch 128X64 B&W Oled 
 
 
